@@ -18,7 +18,7 @@ New programs will be added over time with different objectives and problem types
 - Number-based and math programs  
 - Logical and pattern-printing problems  
 - Arrays, strings, and pointers (in related files)  
-- And more topics to be added gradually[web:202][web:204][web:206]
+- And more topics to be added gradually
 
 ---
 
@@ -27,4 +27,4 @@ New programs will be added over time with different objectives and problem types
 1. Open any `.c` file in your code editor or IDE.  
 2. Read the program **aim/comment** at the top to understand the concept.  
 3. Compile and run the program using a C compiler (e.g., `gcc` or any IDE).  
-4. Modify the code, change inputs, and experiment to strengthen your understanding of C.[web:202][web:215]
+4. Modify the code, change inputs, and experiment to strengthen your understanding of C
